@@ -1,34 +1,71 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>LeBron James vs. Michael Jordan: The Debate for the Greatest Basketball Player of All Time</title>
+    <title>Debate Website</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
     <header>
-      <h1>LeBron James vs. Michael Jordan: The Debate for the Greatest Basketball Player of All Time</h1>
+      <h1>Debate Website</h1>
     </header>
 
+    <nav>
+      <ul>
+        <li><a href="#introduction">Introduction</a></li>
+        <li><a href="#debaters">Debaters</a></li>
+        <li><a href="#debate-topics">Debate Topics</a></li>
+        <li><a href="#schedule">Schedule</a></li>
+        <li><a href="#live-stream">Live Stream</a></li>
+        <li><a href="#faq">FAQ</a></li>
+      </ul>
+    </nav>
+
     <main>
-      <section>
-        <h2>LeBron James</h2>
-        <p>LeBron James is a professional basketball player who currently plays for the Los Angeles Lakers. He was drafted as the first overall pick in the 2003 NBA draft by the Cleveland Cavaliers. Over his career, he has won four NBA championships, four MVP awards, and numerous other accolades. LeBron is widely regarded as one of the best basketball players of all time due to his size, strength, skill, and versatility. He is a dominant force on the court, and has established himself as one of the best scorers, passers, and defenders in the game.</p>
+      <section id="introduction">
+        <h2>Introduction</h2>
+        <p>Welcome to the Debate Website! Here, we host debates on various topics to encourage discussions and exchange of ideas. Our debates are moderated and respectful, and we encourage audience participation. Read on to learn more about our debaters, debate topics, schedule, and how to join the live stream.</p>
       </section>
 
-      <section>
-        <h2>Michael Jordan</h2>
-        <p>Michael Jordan is a retired professional basketball player who is widely considered the greatest basketball player of all time. He played 13 seasons in the NBA, all with the Chicago Bulls, and won six NBA championships, five MVP awards, and numerous other accolades. Jordan was known for his incredible scoring ability, his clutch performances in big moments, and his competitive fire. He revolutionized the game of basketball with his flashy style of play and his relentless drive to win. To this day, he remains an icon of the sport and a symbol of greatness for many fans and players.</p>
+      <section id="debaters">
+        <h2>Debaters</h2>
+        <p>Our debaters are experienced speakers who bring unique perspectives and insights to each debate. They are:</p>
+        <ul>
+          <li>Debater 1</li>
+          <li>Debater 2</li>
+          <li>Debater 3</li>
+        </ul>
+        <p>To learn more about each debater, click on their name above.</p>
       </section>
 
-      <section>
-        <h2>The Debate</h2>
-        <p>LeBron James and Michael Jordan are two of the greatest basketball players of all time, and the debate over who is the greatest will likely continue for many years to come. Both players have incredible resumes and impressive records, and both have made significant contributions to the sport of basketball. Ultimately, the answer to the question of who is the greatest may come down to personal opinion and individual preferences. Some people may argue that LeBron's size and versatility make him the greatest player, while others may argue that Jordan's scoring ability, clutch performances, and competitive fire give him the edge.</p>
-        <p>In the end, it's a matter of perspective and individual taste. Both LeBron and Jordan have left an indelible mark on the sport of basketball, and both will be remembered as legends for generations to come.</p>
+      <section id="debate-topics">
+        <h2>Debate Topics</h2>
+        <p>Our debates cover a range of topics, including:</p>
+        <ul>
+          <li>Topic 1</li>
+          <li>Topic 2</li>
+          <li>Topic 3</li>
+        </ul>
+        <p>Check back regularly for updates on future debate topics.</p>
       </section>
-    </main>
 
-    <footer>
-      <p>&copy; 2023 The Debate for the Greatest Basketball Player of All Time</p>
-    </footer>
-  </body>
-  </head>
-</html>
+      <section id="schedule">
+        <h2>Schedule</h2>
+        <p>Our debates take place on the following dates and times:</p>
+        <ul>
+          <li>Date 1, Time 1</li>
+          <li>Date 2, Time 2</li>
+          <li>Date 3, Time 3</li>
+        </ul>
+        <p>All times are in Eastern Standard Time (EST).</p>
+      </section>
+
+      <section id="live-stream">
+        <h2>Live Stream</h2>
+        <p>You can watch our debates live on our website or on the following platforms:</p>
+        <ul>
+          <li>Platform 1</li>
+          <li>Platform 2</li>
+          <li>Platform 3</li>
+        </ul>
+        <p>
