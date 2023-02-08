@@ -30,4 +30,5 @@
       <p>&copy; 2023 The Debate for the Greatest Basketball Player of All Time</p>
     </footer>
   </body>
+  </head>
 </html>
